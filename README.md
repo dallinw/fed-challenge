@@ -1,3 +1,26 @@
+# FED Interview Challenge 
+
+Notes on this challenge:
+
+Hello! Thanks for the consideration and for this cool opportunity to test my React knowledge. I had a lot of fun working on this.
+ 
+I implemented a few extra tasks since I had time:
+  I did all three of these rather than just one:
+    * Animate and fade in hero text
+    * Animate cards in the grid section on hover
+    * Animate and fade in cards in the iFit-enabled equipment section, when in view.
+  I did two of the JavaScript tasks as well:
+    * Create a functioning reviews slider (repeating the reviews is acceptable)
+    * Set up the language picker in the footer to "select" different languages (display a list of languages and replace the label when clicked)
+  And I made a few small tasks of my own:
+    * Responsiveness improvements - collapse main navbar into hamburger menu, reduce padding for smaller screens
+    * Fade-in animation on the whole page
+
+Ordinarily I'd write tests, but since this challenge was mostly centered around styling / static design, I figured the tests would be largely redundant. I do think testing is important though! If you click around my Github you'll see plenty of samples of other tests I've written with Jest / Enzyme / React-testing-library, like right [here](https://github.com/dallinw/react-code-test/blob/master/src/App.test.tsx).
+
+
+# Boilerplate
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
